@@ -67,4 +67,3 @@ If you'd like to contribute to this repository by adding more C programs or impr
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-```
