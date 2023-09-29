@@ -1,10 +1,5 @@
 # C-all-programs
 
-To create a README for a GitHub repository containing C programs, you can provide clear instructions on how to install and run the programs. Here's a template you can use:
-
-```markdown
-# C Programs Repository
-
 Welcome to the C Programs Repository! This repository contains various C programs for educational and learning purposes. Below are instructions on how to compile and run these programs.
 
 ## Prerequisites
